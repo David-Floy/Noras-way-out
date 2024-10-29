@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 804afb33005aaf54cab188c5cbd1dfdf
+timeCreated: 1538251254
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Buildings/NS_Brick_Apartment_Corner_FloorB.prefab
+  uploadId: 278362

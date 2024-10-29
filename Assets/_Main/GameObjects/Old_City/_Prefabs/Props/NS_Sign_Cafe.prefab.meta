@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c00175d8061683345afb2d288f44c0c9
+timeCreated: 1538251275
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Sign_Cafe.prefab
+  uploadId: 278362

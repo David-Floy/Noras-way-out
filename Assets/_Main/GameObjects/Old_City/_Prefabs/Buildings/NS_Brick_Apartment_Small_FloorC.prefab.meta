@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f6960254bcc837478311b03cb7df69b
+timeCreated: 1538251258
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Buildings/NS_Brick_Apartment_Small_FloorC.prefab
+  uploadId: 278362

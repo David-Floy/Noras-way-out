@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0263409fd7391d141a2642ec9766a1d8
+timeCreated: 1538251273
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Prop_TrashCan.prefab
+  uploadId: 278362

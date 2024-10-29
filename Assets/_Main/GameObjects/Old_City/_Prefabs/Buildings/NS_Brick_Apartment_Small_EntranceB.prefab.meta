@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c37ba4583002969489bbceeb3ad37be6
+timeCreated: 1538251258
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Buildings/NS_Brick_Apartment_Small_EntranceB.prefab
+  uploadId: 278362

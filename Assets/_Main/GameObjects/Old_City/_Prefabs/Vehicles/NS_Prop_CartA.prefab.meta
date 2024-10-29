@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41b97cf3255246945b168602f171202d
+timeCreated: 1539450163
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Vehicles/NS_Prop_CartA.prefab
+  uploadId: 278362

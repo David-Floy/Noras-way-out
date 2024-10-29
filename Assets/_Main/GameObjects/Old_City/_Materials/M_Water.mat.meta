@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 78f44fe3d12a5b3449b7bae61fb927dc
+timeCreated: 1538249849
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Materials/M_Water.mat
+  uploadId: 278362

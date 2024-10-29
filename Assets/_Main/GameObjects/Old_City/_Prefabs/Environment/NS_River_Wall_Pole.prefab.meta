@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac9bb87cd6464134d8fa038d167e04cc
+timeCreated: 1538251274
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Environment/NS_River_Wall_Pole.prefab
+  uploadId: 278362

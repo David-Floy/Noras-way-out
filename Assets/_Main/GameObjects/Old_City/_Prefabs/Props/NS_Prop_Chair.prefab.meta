@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06660a87598421c45873d86ee1ebcbb6
+timeCreated: 1538251267
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Prop_Chair.prefab
+  uploadId: 278362

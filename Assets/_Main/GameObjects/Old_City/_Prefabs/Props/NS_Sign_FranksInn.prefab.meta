@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49a1b1ea3f71f804fb89ab0e82240288
+timeCreated: 1538251276
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Sign_FranksInn.prefab
+  uploadId: 278362

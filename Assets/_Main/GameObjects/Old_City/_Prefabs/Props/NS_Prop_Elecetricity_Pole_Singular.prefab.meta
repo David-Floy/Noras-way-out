@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 641f5029ea08fbf4f8117b0bd283c349
+timeCreated: 1540564048
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Prop_Elecetricity_Pole_Singular.prefab
+  uploadId: 278362

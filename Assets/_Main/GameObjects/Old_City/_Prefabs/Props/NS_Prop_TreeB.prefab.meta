@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6267dcc71c9e403439e196257770c79d
+timeCreated: 1538251273
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132753
+  packageName: Old City Pack
+  packageVersion: 1.0
+  assetPath: Assets/Old_City/_Prefabs/Props/NS_Prop_TreeB.prefab
+  uploadId: 278362
