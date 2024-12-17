@@ -1,12 +1,23 @@
 # ninja log v5
+7	1865	7545165085475222	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cb433e29262982f9
 71	284	7545165069689215	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cbb37a3588f38f08
 286	465	7545165071348490	C:/Users/david/VR-Theater-UNI/VR-Theater-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n1be1ca/obj/arm64-v8a/libswappywrapper.so	577cf5b506496868
+38	1703	7545165083859310	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ba28383256d207b3
 21	1307	7545165079903447	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	478292251ed50fc2
 29	1311	7545165079968462	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c4f145f672ec1ff2
-14	1367	7545165080482260	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bff2d60f6ff2bfcb
-48	1388	7545165080688115	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2201cf3691c02959
 58	1478	7545165081603049	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	90f469249bf8c402
+14	1367	7545165080482260	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bff2d60f6ff2bfcb
 1	1541	7545165082251067	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bf9c89d7f863567a
-38	1703	7545165083859310	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ba28383256d207b3
-7	1865	7545165085475222	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cb433e29262982f9
+48	1388	7545165080688115	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2201cf3691c02959
 1866	1958	7545165086367985	C:/Users/david/VR-Theater-UNI/VR-Theater-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n1be1ca/obj/arm64-v8a/libgame.so	d1c57ba47ac662a3
+62	288	7561510201106621	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cbb37a3588f38f08
+289	647	7561510204625439	C:/Users/david/VR-Theater-UNI/VR-Theater-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n1be1ca/obj/arm64-v8a/libswappywrapper.so	577cf5b506496868
+36	1187	7561510210079700	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c4f145f672ec1ff2
+17	1217	7561510210382579	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bff2d60f6ff2bfcb
+43	1229	7561510210513572	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2201cf3691c02959
+24	1243	7561510210656562	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	478292251ed50fc2
+51	1301	7561510211224892	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	90f469249bf8c402
+11	1371	7561510211933129	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bf9c89d7f863567a
+30	1524	7561510213473020	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ba28383256d207b3
+4	1645	7561510214657311	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cb433e29262982f9
+1645	1744	7561510215616424	C:/Users/david/VR-Theater-UNI/VR-Theater-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2n1be1ca/obj/arm64-v8a/libgame.so	d1c57ba47ac662a3
